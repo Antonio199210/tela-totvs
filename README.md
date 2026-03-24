@@ -1,4 +1,4 @@
-# Projeto-Gerencia-Softwares-Grupo_07
+# Projeto-Gerencia-Softwares-Grupo_06
 Projeto de planejamento da implantação de um sistema ERP em uma empresa
 # 🖨️ Implantação de Sistema ERP – Novaprint
 
@@ -96,73 +96,12 @@ Implantação de um sistema ERP com foco em:
 - Cronograma  
 - Gestão de riscos  
 
-### ⚡ Ágil (Scrum / Kanban)
+### ⚡ Ágil (Scrum )
 - Entregas rápidas  
 - Flexibilidade  
 - Melhor adaptação a mudanças  
 
----
 
-## 📅 Cronograma do Projeto
 
-1. Planejamento  
-2. Levantamento de requisitos  
-3. Configuração  
-4. Testes  
-5. Treinamento  
-6. Go-live  
-7. Pós-implantação  
 
-⏱️ **Duração total: 10 semanas**
-
----
-
-## ⚠️ Matriz de Riscos
-
-### Principais riscos:
-- Resistência dos funcionários  
-- Falha na migração de dados  
-- Atrasos  
-
-### Mitigações:
-- Treinamento da equipe  
-- Testes rigorosos  
-- Monitoramento contínuo  
-
----
-
-## 💰 Orçamento do Projeto
-
-| Item            | Valor      |
-|----------------|-----------|
-| ERP            | R$ 5.000  |
-| Consultoria    | R$ 8.000  |
-| Treinamento    | R$ 2.000  |
-| Infraestrutura | R$ 3.000  |
-| Suporte        | R$ 2.000  |
-
-💸 **Total: R$ 20.000**
-
----
-
-## 📊 Benefícios Esperados
-
-- Redução de erros operacionais  
-- Maior controle financeiro  
-- Aumento da produtividade  
-- Melhor tomada de decisão  
-
----
-
-## ✅ Conclusão
-
-- Projeto viável  
-- Alto impacto positivo  
-- Empresa mais organizada  
-- Preparada para crescimento  
-
----
-
-## 🙌 Encerramento
-
-Obrigado por acompanhar o projeto!  
+ 
