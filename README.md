@@ -44,3 +44,6 @@ Possui fácil acesso às principais vias da cidade, como:
 - Empresa sólida e em constante crescimento  
 
 ---
+## 📄 Documentação do Projeto
+
+- [Baixar documentação (PDF)](docs/documentacao.pdf)
